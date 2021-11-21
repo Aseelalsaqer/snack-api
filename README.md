@@ -1,5 +1,5 @@
 ## Snack API :
-CRUD API with Django Rest Framework
+Creating API with Django Rest Framework
 
 ## Feature Tasks and Requirements:
 -[X] Rebuild a custom version of Blog API demo project from scratch.         
